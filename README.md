@@ -12,4 +12,4 @@ Installation
 minetest-0.4.15-win64\minetest-0.4.15-win64\mods\emf
 <li>Next download the init.lua file above to the newly created emf folder</li>
 minetest-0.4.15-win64\minetest-0.4.15-win64\mods\emf
-<h6>Congratulations, you just have installed the mod. If you haven't already go to the textures branch and follow the READ ME to install the textures. If you have installed the mod and the textures then you have sucesfully installed the complete EAT MORE FOOD Minetest mod.</h6>
+<h6>Congratulations, you just have installed the mod. If you haven't already go to the textures branch and follow the Texture Download Instructions to install the textures. If you have installed the mod and the textures then you have sucesfully installed the complete EAT MORE FOOD Minetest mod.</h6>
