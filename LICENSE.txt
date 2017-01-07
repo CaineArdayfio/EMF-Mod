@@ -1,7 +1,7 @@
 License for Code
 ----------------
 
-Copyright (C) 2010-2013 Your Name <emailaddress>
+Copyright (C) 2010-2013 Caine A.
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
@@ -10,8 +10,7 @@ the Free Software Foundation; either version 2.1 of the License, or
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Lesser General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
 
 You should have received a copy of the GNU Lesser General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -20,4 +19,4 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 License for Textures, Models and Sounds
 ---------------------------------------
 
-CC-BY-SA 3.0 UNPORTED. Created by Your Name
+CC-BY-SA 3.0 UNPORTED. Created by Caine A.
