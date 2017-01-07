@@ -1,0 +1,17 @@
+Create a folder called server in the default textures folder as seen below
+minetest-0.4.15-win64\minetest-0.4.15-win64\textures
+
+Next download the images above as png's to the new server folder and you should have file paths that look like this
+minetest-0.4.15-win64\minetest-0.4.15-win64\textures\server\apple_juice
+
+Good Job! 
+You have successfully installed the textures required for this mod.
+
+
+
+
+
+
+
+
+
